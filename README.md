@@ -184,4 +184,5 @@ Proyek ini dikembangkan oleh **Kelompok 5** sebagai tugas kelompok mata kuliah I
 
 ---
 **luqmanaru**
+
 Proyek ini dikembangkan sebagai tugas kelompok mata kuliah Internet of Things 1. Semua komponen dan kode dirancang untuk simulasi lampu dekorasi interaktif menggunakan Arduino Uno dengan input analog dan digital.
