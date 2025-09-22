@@ -1,0 +1,34 @@
+{
+  "version": "1.0",
+  "author": "Kelompok 5 - IoT 1",
+  "created": "2024",
+  "description": "Diagram koneksi untuk lampu dekorasi dengan potensiometer dan push button",
+  "connections": [
+    {
+      "component": "LED Merah",
+      "pin": "9",
+      "type": "PWM Output"
+    },
+    {
+      "component": "LED Hijau",
+      "pin": "10",
+      "type": "PWM Output"
+    },
+    {
+      "component": "LED Biru",
+      "pin": "11",
+      "type": "PWM Output"
+    },
+    {
+      "component": "Push Button",
+      "pin": "2",
+      "type": "Digital Input with Pull-up"
+    },
+    {
+      "component": "Potensiometer",
+      "pin": "A0",
+      "type": "Analog Input"
+    }
+  ],
+  "notes": "Semua katoda LED terhubung ke GND. Tombol menggunakan pull-up internal. Potensiometer terhubung antara 5V dan GND."
+}
