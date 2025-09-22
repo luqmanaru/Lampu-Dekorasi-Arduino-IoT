@@ -1,6 +1,5 @@
 # Lampu-Dekorasi-Arduino-IoT
 
-![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 ![IoT](https://img.shields.io/badge/IoT-Project-blue)
 
